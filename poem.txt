@@ -8,3 +8,15 @@ blue
 indigo
 violet
 These are the 7 colors of the rainbow.
+
+
+Version auf Deutsch
+Die Farben des Regenbogens
+
+Rot
+Orange
+Gelb
+Grün
+Blau
+Indigo
+Violett
