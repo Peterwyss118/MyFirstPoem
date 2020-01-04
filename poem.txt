@@ -6,3 +6,4 @@ yellow
 green
 blue
 violet
+These are the colors of the rainbow.
