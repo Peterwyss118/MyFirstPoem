@@ -1,0 +1,8 @@
+My colors are
+
+red
+orange
+yellow
+green
+blue
+violet
